@@ -32,7 +32,7 @@ See the live demo [here](http://althaf-khan.com/three-js/cube-with-material-and-
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/althafkhan2107/Quick-3D-Shape-Three-js.git`
-2. Navigate to the project directory: `cd three-js-cube`
+2. Navigate to the project directory: `cd quick-3d-shape-three-js`
 3. Open the `index.html` file in a web browser.
 
 ## Usage
