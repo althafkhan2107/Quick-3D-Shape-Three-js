@@ -1,6 +1,6 @@
 # Three.js | Cube with Material and Texture
 
-![Screenshot]([screenshot.png])
+<img width="707" alt="screenshot" src="https://github.com/althafkhan2107/Quick-3D-Shape-Three-js/assets/98469857/893b36b5-ad97-4266-83af-f91d681f3456">
 
 A simple Three.js project that demonstrates a rotating cube with material and texture.
 
