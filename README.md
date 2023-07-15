@@ -19,7 +19,7 @@ This project showcases how to create a rotating cube with material and texture u
 
 ## Demo
 
-See the live demo [here](https://example.com).
+See the live demo [here](http://althaf-khan.com/three-js/cube-with-material-and-texture/).
 
 ## Features
 
@@ -47,7 +47,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Acknowledgements
 
 - [Three.js](https://threejs.org) - The WebGL library used for 3D graphics rendering.
-- [Texture image source](https://example.com) - The source of the texture used for the cube.
+- [Texture image source](http://althaf-khan.com/three-js/cube-with-material-and-texture/) - The source of the texture used for the cube.
 
 ## Contact
 
